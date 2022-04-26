@@ -1,0 +1,7 @@
+{
+  "name": "appBoy",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
